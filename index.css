@@ -1,0 +1,27 @@
+body {
+  background: #eee;
+}
+
+.phone {
+  background: white;
+  width: 360px;
+  height: 720px;
+  border-radius: 80px;
+  padding: 20px;
+  text-align: center;
+}
+
+img {
+  width: 80%;
+  margin-top: 100px;
+  border-radius: 30px;
+}
+
+a {
+  display: inline-block;
+  margin-top: 300px;
+  padding: 10px 20px;
+  background: black;
+  color: white;
+  border-radius: 30px;
+}
